@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "@ionic/react": "^6.0.0",
+    "@ionic/react": "^6.0.1-dev.1640031995.c1d4978",
     "@ionic/react-router": "^6.0.0",
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
